@@ -6,4 +6,4 @@ Tailwaind CSS
 
 # Mobile view
 
-!picture[https://github.com/tobisamcode/NinjaFood/blob/main/Tailwindcss.jpg]
+![picture](https://github.com/tobisamcode/NinjaFood/blob/main/Tailwindcss.jpg)
